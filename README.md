@@ -53,4 +53,3 @@
 	- installed zsh with `sudo pacman -S zsh`
 	- changed colors in shell with preferences GUI
 	- added `alias update='sudo pacman -Syu'`
-	- 
