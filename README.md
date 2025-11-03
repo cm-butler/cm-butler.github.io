@@ -1,5 +1,5 @@
 # Arch Linux Installation
-- - **Preparation**
+- **Preparation**
 	- First, I prepared a live usb by downloading the latest Arch Linux ISO and using Rufus to write it
 	- I then booted from the live USB in non-UEFI BIOS mode
 - **Live Environment**
