@@ -20,6 +20,6 @@
 		      - ./data:/data
 	  ```
 5. ran `sudo docker compose up`
-![[/DockerImages/DockerSS1]]
+![/DockerImages/DockerSS1.png]
 6. Shutdown VM and port forwarded the NAT network adapter so i could connect to it on my host OS
-![[/DockerImages/DockerSS2]]
+![/DockerImages/DockerSS2.png]
